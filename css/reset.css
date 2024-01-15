@@ -1,0 +1,51 @@
+/******************/
+/*****RESETEAR*****/
+/******************/
+*{
+    margin: 0px;
+    padding: 0px;
+    vertical-align: baseline;
+}
+
+*,
+*:focus{
+    outline: none !important;
+}
+
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+body{
+    text-rendering: optimizeSpeed;
+}
+
+ul, ol{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+}
+
+img, video, iframe, picture, figure{
+    max-width: 100%;
+    display: block;
+}
+
+form, input, select, textarea, button, label{
+    display: block;
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+}
+
+/******************/
+/*****RESETEAR*****/
+/******************/
